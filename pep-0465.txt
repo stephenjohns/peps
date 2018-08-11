@@ -924,7 +924,7 @@ writing parentheses isn't so bad -- if an efficiency-minded programmer
 is going to take the trouble to think through the best way to evaluate
 some expression, they probably *should* write down the parentheses
 regardless of whether they're needed, just to make it obvious to the
-next reader that they order of operations matter.
+next reader that the order of operations matter.
 
 In addition, it turns out that other languages, including those with
 much more of a focus on linear algebra, overwhelmingly make their
